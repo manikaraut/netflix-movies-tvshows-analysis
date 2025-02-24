@@ -18,6 +18,7 @@
 - description: Brief synopsis of the title
 
 ## Project Structure
+```
 movies_analysis/
 │
 ├── notebooks/
@@ -28,6 +29,7 @@ movies_analysis/
 ├── README.md
 │
 └── requirements.txt
+```
 
 ## Technologies Used
 - Python: Data processing and analysis
